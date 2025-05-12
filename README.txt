@@ -1,30 +1,26 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Data Science Portfolio Website
 
+This is my personal portfolio website, showcasing data science projects, skills, and experience. It includes case studies on topics like Titanic survival prediction, customer segmentation, diabetes prediction, and more.
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+## Live Site
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+[View the website](https://abdulrashid129.github.io/portfolio/)
 
-(* = not included)
+##Sections
 
-AJ
-aj@lkn.io | @ajlkn
+- **Home**: Introduction to who I am
+- **Projects**: Detailed writeups of my data science projects
+- **Skills**: Tools and technologies I use
+- **About Me**: Background and interests
+- **Contact**: How to reach me
 
+##Built With
 
-Credits:
+- HTML5
+- CSS3
+- [HTML5 UP Template](https://html5up.net/)
+- Git & GitHub
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Feel free to fork this repo or reach out if you'd like to collaborate!
